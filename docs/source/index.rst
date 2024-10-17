@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to MicroVEctor-Board's documentation!
 ===================================
 
 **MicroVEctor** is a Python library built for performance 
