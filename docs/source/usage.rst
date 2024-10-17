@@ -6,7 +6,7 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+Py stack is built inside the Board:
 
 .. code-block:: console
 
