@@ -1,5 +1,5 @@
 Welcome to MicroVEctor-Board's documentation!
-===================================
+===============================================
 
 **MicroVEctor** is a Python library built for performance 
 that creates recipes mixing random ingredients.
